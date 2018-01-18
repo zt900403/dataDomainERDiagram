@@ -1,0 +1,26 @@
+{
+  "name": "data_domain_er_digram",
+  "version": "1.0.0",
+  "description": "\"# dataDomainERDiagram\"",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap3-dialog": "^1.35.4",
+    "echarts": "^3.8.5",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zt900403/dataDomainERDiagram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zt900403/dataDomainERDiagram/issues"
+  },
+  "homepage": "https://github.com/zt900403/dataDomainERDiagram#readme"
+}
